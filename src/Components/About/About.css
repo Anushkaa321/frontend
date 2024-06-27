@@ -1,0 +1,60 @@
+
+  .job {
+    font-size: 14px;
+    border-bottom:1px solid#888;
+    margin-right:400px;
+    color: #6b7280;
+    
+  }
+  .job1{
+    text-align:left;
+    margin-top:20px;
+    margin-left:70px;
+
+  }
+  
+  .ul-list {
+    list-style:none;
+    margin-left:-20px;
+    padding-left:20px;
+    margin-top: 5px;
+  }
+ .job2 {
+    text-align:left;
+    margin-top:-10px;
+    margin-left:70px;
+ }
+
+ .ul-list1{
+    margin-top:5px;
+    margin-left:-15px;
+    font-size: 14px;
+    color: #6b7280;
+    
+
+ }
+ .job3{
+    margin-top:-10px;
+    text-align:left;
+    margin-left:70px;
+ }
+ .ul-list2{
+    margin-top:5px;
+    margin-left:-15px;
+    font-size: 14px;
+    color: #6b7280;
+    
+ }
+ .job4 {
+    margin-top:-10px;
+    margin-left:70px;
+    text-align:left;
+
+ }
+ .ul-list3{
+    margin-top:5px;
+    margin-left:-15px;
+    font-size: 14px;
+    color: #6b7280;
+    
+ }
